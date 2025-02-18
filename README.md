@@ -13,15 +13,13 @@
 
 ---
 
-### 🚀 Technical Expertise
-**Cloud & DevOps:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana&perline=5" alt="devops stack" />
-</p>
-
-**Full-Stack Development:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,mongodb,redis,nodejs,html,css,tailwind&perline=6" alt="development stack" />
+### 🚀 Tech Stack
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=aws,docker,cpp,cs,java,js,ts,css,html,tailwind,php,git,mongodb,mysql,nodejs,react,spring,figma,postman,jenkins&perline=10" 
+    alt="tech stack" 
+    style="margin: 2px;" 
+  />
 </p>
 
 ---
