@@ -36,29 +36,3 @@
 </p>
 
 ---
-
-### 🔥 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #42 in [repository-name]
-2. 🚀 Deployed v1.2.0 of [project-name]
-3. 📝 Updated documentation for [library-name]
-4. 🐛 Fixed critical bug in [service-name]
-<!--END_SECTION:activity-->
-
----
-
-### 🛠️ Featured Projects
-<a href="https://github.com/Sligliyanage/cloud-automation-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sligliyanage&repo=cloud-automation-toolkit&theme=dark&bg_color=000000&title_color=28B463" />
-</a>
-
-<a href="https://github.com/Sligliyanage/dotnet-microservices-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sligliyanage&repo=dotnet-microservices-template&theme=dark&bg_color=000000&title_color=28B463" />
-</a>
-
----
-
-### 💡 Pro Tips
-- Using GitHub Actions for CI/CD pipelines  
-- Implementing Kubernetes cluster autoscaling  
-- Building cloud-native .NET applications  
