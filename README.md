@@ -32,7 +32,9 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sligliyanage&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=28B463&icon_color=28B463" width="48%" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sligliyanage&theme=dark&background=000000&stroke=28B463&ring=28B463&fire=28B463&currStreakLabel=28B463" width="48%" alt="streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sligliyanage&layout=compact&theme=dark&bg_color=000000&title_color=28B463&text_color=28B463&border_color=28B463" alt="Most Used Languages" />
+
+    
 </p>
 
 ---
